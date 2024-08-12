@@ -2,7 +2,7 @@
 
 ## frontend developer.
 
-#### i specialize in the development of spa, adaptive layout, and website logic. i like to dig into how everything works
+#### i specialize in the development of spa, adaptive layout, and website logic. i like to dig into how everything works.
 ---
 
 ##  tech stack.
